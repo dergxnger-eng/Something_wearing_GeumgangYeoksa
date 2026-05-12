@@ -1,13 +1,6 @@
 # B00
 
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
-
-Placeholder text for layout testing: Chimera research unfolds across fragmented memories, synthetic anatomies, and speculative rituals that merge archival traces with generated futures. This project explores hybrid embodiment through digital sculpture, moving between mythological residue and machine perception. Each form behaves like a temporary host: unstable, layered, and responsive to context. The narrative remains intentionally open, inviting interpretation through ambiguity and transformation.
-
-
-
-PS: You can use Markdown formatting, for example:
-
-- Bullet lists
-- **Bold text**
-- *Italic text*
+B00 is an entity that collects and wears fragments of guardian figures from Korean Buddhist temples, especially parts of the Four Heavenly Kings. Faces, hands, armor fragments, teeth, and eyes—once created to protect temples and uphold sacred order—are repurposed as a protective shell around its own body.
+It does not guard a temple. Instead, it scavenges and accumulates the imagery of protection, transforming sacred symbols into equipment for survival. The attached fragments of guardian deities function less as spiritual icons and more as defensive devices against fear and vulnerability.
+B00’s body is composed of endlessly accumulated remains of protection. Beneath these excessive layers of guardian forms, the original body gradually disappears, leaving behind a being that compulsively consumes the image of protection in order to protect itself.
+What it wears is not faith, but the traces of a desperate impulse to be protected.
